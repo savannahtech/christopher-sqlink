@@ -13,7 +13,7 @@
       },
       "configurations": {
         "development": {
-          "outputPath": "dist/savannahtech"
+          "outputPath": "."
         },
         "production": {}
       }
