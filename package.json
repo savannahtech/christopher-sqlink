@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "start": "nx serve",
-    "build": "next build",
+    "build": "nx build",
     "test": "nx test"
   },
   "private": true,
@@ -40,7 +40,6 @@
     "jest": "^29.4.1",
     "jest-environment-jsdom": "^29.4.1",
     "nx": "16.7.4",
-    "nx-cloud": "latest",
     "prettier": "^2.6.2",
     "ts-jest": "^29.1.0",
     "ts-node": "10.9.1",
